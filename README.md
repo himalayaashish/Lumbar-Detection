@@ -61,6 +61,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
+<img align='left'   width="500" src="https://github-readme-stats.vercel.app/api?username=himalayaashish&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalayaashish&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 
 <!--START_SECTION:waka-->
