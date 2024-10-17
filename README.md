@@ -61,13 +61,19 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
-<img align='left'   width="500" src="https://github-readme-stats.vercel.app/api?username=himalayaashish&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalayaashish&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 
 <!--START_SECTION:waka-->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himalayaashish&theme=apprentice" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himalayaashish&theme=apprentice&utcOffset=8" alt="Productive time" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himalayaashish&theme=apprentice" alt="Repos per language" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himalayaashish&theme=apprentice" alt="Most commit language" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=himalayaashish&theme=apprentice" alt="Stats" />
+</div>
 
-<a>
+
+---
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
@@ -83,7 +89,4 @@
  </a>
  <a href="https://medium.com/@himalayaashish" target="blank">
   <img align="center" alt="Himalaya's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
- </a> 
-  <br/>
-  <br/>
-</a>
+ </a>
